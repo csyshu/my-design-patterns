@@ -8,8 +8,8 @@ package com.csy.design.memento;
 public class PreviousCalculationImp implements PreviousCalculationToCareTaker,
         PreviousCalculationToOriginator {
 
-    private int firstNumber;
-    private int secondNumber;
+    private final int firstNumber;
+    private final int secondNumber;
 
     public PreviousCalculationImp(int firstNumber, int secondNumber) {
         this.firstNumber = firstNumber;

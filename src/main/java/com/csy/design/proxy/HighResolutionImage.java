@@ -5,7 +5,7 @@ import java.net.URL;
 /**
  * <p>Description：</p>
  *
- * @author shuyun.cheng
+ * @author csy
  * @date 2021/8/17 17:09
  */
 public class HighResolutionImage implements Image {

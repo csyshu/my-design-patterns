@@ -1,7 +1,7 @@
 package com.csy.design.prototype;
 
 /**
- * @author shuyun.cheng
+ * @author csy
  */
 public class ConcretePrototype implements Prototype {
 
