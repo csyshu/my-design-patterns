@@ -6,7 +6,7 @@ import java.awt.*;
 /**
  * 客厅装修
  */
-public class ParlourDecorator {
+public class Client {
     public static void main(String[] args) {
         try {
             BaseDecorator d = new ConcreteDecorator1();
